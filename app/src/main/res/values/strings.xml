@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">Penmon</string>
+    <string name="m1">Method #1(Universal)</string>
+    <string name="m2">Method #2 (Specific)</string>
+    <string name="desc1">This method using con_mode in 4.x kernels</string>
+    <string name="desc2">This method using https://github.com/cerg2010cerg2010/qcmon source</string>
+    <string name="desc3">List of tested 100% working devices https://huntmix.ru/devices.html</string>
+    <string name="author">Made by Huntmix with ❤ Contact: https://t.me/huntmix</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="how">How it works?</string>
+    <string name="list">List of tested devices</string>
+    <string name="list2">Most of new devices (>2018-2019 years)</string>
+    <string name="list3" translatable="false">Poco F1\nRedmi Note 5\nRedmi 5(prime)\nRedmi Note 6 Pro\nRedmi Note 7\nXiaomi Mi 8\nOnePlus7 Pro\nAsus zenfone max pro m2\nYandex Phone Mokee OS 9\nCubot 30x\nRedmi Note 8T\nMi 9\nMi 9T\nLG 30+</string>
+    <string name="github">Visit GitHub</string>
+    <string name="git">Source are avaible here: https://github.com/huntmix/penmon</string>
+    <string name="wifite">Open Wifite</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m1">Метод №1 (Универсальный)</string>
+    <string name="m2">Метод №2 (Спец.)</string>
+    <string name="desc1">Используеться con_mode в ядрах >4.x версии</string>
+    <string name="desc2">Используется https://github.com/cerg2010cerg2010/qcmon</string>
+    <string name="desc3">Список протестированых девайсов https://huntmix.ru/devices.html</string>
+    <string name="author">Сделал Huntmix с ❤ Связь: https://t.me/huntmix</string>
+    <string name="on">Включить</string>
+    <string name="off">Выключить</string>
+    <string name="how">Как это работает?</string>
+    <string name="list">Список протестированых устройств</string>
+    <string name="list2">Большинство новых девайсов (>2018-2019 годов)</string>
+    <string name="github">Github</string>
+    <string name="git">Исходный код доступен здесь: https://github.com/huntmix/penmon</string>
+    <string name="wifite">Запуск Wifite</string>
+</resources>

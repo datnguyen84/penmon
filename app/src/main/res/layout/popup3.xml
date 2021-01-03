@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="900px"
+    android:layout_height="300px"
+
+    android:padding="5dp"
+    android:background="@drawable/popuper"
+    android:layout_gravity="center">
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/github"
+        android:textColor="@color/white"
+        android:textSize="80px" />
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="40px"
+        android:text="@string/git"
+        android:autoLink="all"
+        android:textColorLink="#FFFFFF"
+        android:textColor="@color/white" />
+
+
+
+
+</LinearLayout>
